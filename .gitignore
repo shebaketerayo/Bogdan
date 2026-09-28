@@ -1,0 +1,9 @@
+bin/
+dist/
+tools/sprites/build/
+__pycache__/
+*.exe
+*.pdb
+*.tmp
+.vs/
+.vscode/
